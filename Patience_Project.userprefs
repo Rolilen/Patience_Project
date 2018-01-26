@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Cube48_Move.cs">
+    <Files>
+      <File FileName="Assets\Script\PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Cube48_Move.cs" Line="46" Column="3" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextASide002.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\TextAside.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside001.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside_Obstacle001.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside003.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside_Obstacle002.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAsideMoveSet001.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside004.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside005.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside006.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TextAside\Level 1\TextAside007.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Cube71_Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RangeLimit.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
